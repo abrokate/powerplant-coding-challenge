@@ -1,0 +1,12 @@
+# Web API
+fastapi>=0.95.1,<0.96.0
+uvicorn[standard]>=0.21.0,<0.22.0
+pydantic>=1.10.7,<2.0.0
+
+# Utilities
+python-dotenv==1.0.0
+tenacity==8.2.2
+
+# For development
+pytest==7.3.1
+requests==2.30.0
