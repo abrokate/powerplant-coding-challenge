@@ -24,8 +24,8 @@ This API solves the power plant production problem by implementing a merit order
 ### Local Setup
 1. Clone this repository
 ```bash
-git clone https://github.com/abrokate/power-plant-api.git
-cd power-plant-api
+git clone https://github.com/abrokate/powerplant-coding-challenge.git
+cd powerplant-coding-challenge
 ```
 
 2. Create a virtual environment (recommended)
